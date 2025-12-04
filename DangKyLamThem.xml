@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DangKyLamThem>
+  <NgayLamThem Ngay="15/08/2023">
+    <NhanVien Ma="NV02">
+      <LoaiLamThem>150%2</LoaiLamThem>
+      <SoGio>243</SoGio>
+      <TrangThai>Khong phe duyet2</TrangThai>
+    </NhanVien>
+    <NhanVien Ma="NV02">
+      <LoaiLamThem>100%</LoaiLamThem>
+      <SoGio>8</SoGio>
+      <TrangThai>Phe duyet</TrangThai>
+    </NhanVien>
+  </NgayLamThem>
+  <NgayLamThem Ngay="16/08/2023">
+    <NhanVien Ma="NV03">
+      <LoaiLamThem>150%</LoaiLamThem>
+      <SoGio>2</SoGio>
+      <TrangThai>Khong phe duyet</TrangThai>
+    </NhanVien>
+    <NhanVien Ma="NV04">
+      <LoaiLamThem>100%</LoaiLamThem>
+      <SoGio>8</SoGio>
+      <TrangThai>Cho Phe duyet</TrangThai>
+    </NhanVien>
+  </NgayLamThem>
+  <NgayLamThem Ngay="17/08/2023">
+  </NgayLamThem>
+</DangKyLamThem>
